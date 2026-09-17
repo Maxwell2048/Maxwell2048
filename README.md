@@ -1,130 +1,90 @@
-<!-- Maxwell2048/Maxwell2048/README.md -->
+# Hi, I'm Maxwell 👋
 
-<h1 align="center">Hi, I'm Maxwell 👋</h1>
+### AI & Software Developer · UWA Master of IT Graduate · Perth, Australia
 
-<p align="center">
-  <em>AI & Data Science Student @ University of Western Australia &nbsp;·&nbsp; Perth, AU 🇦🇺</em>
-</p>
+I build AI applications, machine learning pipelines and full-stack web tools. My work spans **local LLMs and RAG, natural language processing, computer vision, data engineering and collaborative software delivery**.
 
-<p align="center">
-  <a href="mailto:llp200828@outlook.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Maxwell2048">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+I hold a **Master of Information Technology, specialising in Artificial Intelligence, from the University of Western Australia**. I'm looking for graduate and junior opportunities in **AI development, software engineering and data engineering**, where I can turn technical ideas into useful applications and keep growing through practical delivery.
 
----
+[Explore my RAG project](https://github.com/Maxwell2048/job-evidence-rag) · [Email me](mailto:Maxwell70174@outlook.com)
 
-> Building intelligent systems at the intersection of **Machine Learning, Deep Learning, and NLP**.
+## What I bring
 
-> Passionate about turning data into decisions and models into products.
+- **Applied AI development:** integrating LLM services, building retrieval pipelines, designing structured outputs and evaluating model behaviour.
+- **End-to-end project experience:** working from requirements and data preparation through implementation, testing, integration and deployment activities.
+- **Collaborative engineering:** Git and pull-request workflows, debugging, automated testing, Docker deployment testing and hands-on participation in CI/CD.
+- **Analytical problem-solving:** comparing models, investigating errors and communicating results with clear metrics and visualisations.
 
----
+## Technical skills
 
-## 🙋 About Me
+These are technologies and methods I have worked with across personal and collaborative projects.
 
-- 🎓 &nbsp;Master of IT (AI & Data Science track) @ **University of Western Australia**
-- 🔭 &nbsp;Capstone project: **GeoMind-Intelligent Geological Map Element Detection** (CITS5505 × CITS5017)
-- 🧠 &nbsp;Studied: Deep Learning · NLP · Machine Learning · Adaptive AI Systems
-- 📊 &nbsp;Also into: Data Warehousing · Business Intelligence · Supply Chain Analytics
-- 🌱 &nbsp;Currently exploring: LLM fine-tuning · MLOps · RAG pipelines
-- 💬 &nbsp;Ask me about: **Python, PyTorch, Transformers, IoT**
-- 📫 &nbsp;Reach me: Maxwell70174@outlook.com
-- ⚡ &nbsp;Fun fact: I trained neural nets before I knew how to center a div
+| Area | Technologies & methods |
+| --- | --- |
+| Languages & analysis | Python, SQL, NumPy, pandas, Jupyter |
+| Machine learning | PyTorch, TensorFlow/Keras, scikit-learn, model evaluation, hyperparameter tuning |
+| NLP & deep learning | BoW, BiLSTM, Transformer-style self-attention, embeddings, attention visualisation, ablation studies |
+| LLM applications | RAG, sentence-transformers, multilingual E5, llama.cpp, OpenAI-compatible APIs, JSON Schema, output validation |
+| Computer vision | YOLO11n, CNNs, MobileNetV3 transfer learning, LabelMe, dataset preparation |
+| Web development | Flask, SQLAlchemy, SQLite, Jinja, Bootstrap, HTML/CSS; JavaScript-based application workflows |
+| Data & analytics | PostgreSQL, Neo4j/Cypher, ETL, dimensional modelling, OLAP, Power BI, Databricks/Delta Lake |
+| Engineering delivery | Git, GitHub, pull requests, unittest, Docker, CI/CD workflows, collaborative DevOps practices |
 
----
+## Selected projects
 
-## 🛠️ Tech Stack
+### [Job Evidence RAG](https://github.com/Maxwell2048/job-evidence-rag)
+**Python · Local LLMs · RAG · Flask · Automated validation**
 
-**AI / Machine Learning**
+Built a local AI application that turns job descriptions and a personal knowledge base into evidence-linked matching reports and application drafts.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+- Designed the workflow for requirement extraction, multilingual semantic retrieval and per-requirement evidence assessment.
+- Integrated a local Qwen model through llama.cpp and an OpenAI-compatible API.
+- Added structured output checks, source quotation validation and bounded retries to make generated content easier to verify.
+- Delivered a Flask interface and Markdown, JSON and Word outputs.
+- Used AI coding assistants throughout development, with ownership of requirements, architecture decisions, evidence rules, debugging direction and acceptance.
 
-**Data & Databases**
+### GeoMind — Geological Map Analysis
+**YOLO11n · Computer Vision · Data Annotation · Docker · CI/CD**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+Contributed to a capstone application for extracting information from scanned geological maps.
 
-**Web & IoT**
+- Annotated **57 maps** and contributed to dataset preparation and label refinement.
+- Worked on YOLO11n training and evaluation; the archived run reached **83.5% best validation mAP50**.
+- Contributed to front-end debugging, Docker deployment testing and CI/CD operations as part of the team's development and delivery workflow.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white)
+*Collaborative capstone project; source repository is private.*
 
-**Tools**
+### [Finance Planner — Full-Stack Web Application](https://github.com/Dave-114-P/CITS5505-finance_planner)
+**Flask · SQLAlchemy · SQLite · Bootstrap · Git**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+Developed features for a team-built financial planning application, connecting database models, backend routes and user-facing pages.
 
----
+- Built login and registration pages, spending estimation functionality and community sharing features.
+- Implemented forum models, comments, CRUD routes and database migrations.
+- Delivered changes through **30 commits** and pull-request collaboration, and supported testing and debugging.
 
-## 🚀 Featured Projects
+### Natural Language Inference
+**PyTorch · BoW · BiLSTM · Self-Attention · Model Evaluation**
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🔥 [IoT Fire Detection System](https://github.com/Maxwell2048/fire-detector) | AI-powered community fire alert network with real-time dashboard & SMS alerts (Capstone) | Python · MQTT · React · Raspberry Pi |
-| 🧠 [Deep Learning Image Classifier](https://github.com/Maxwell2048/dl-classifier) | CNN with transfer learning (ResNet/VGG) for multi-class image classification | PyTorch · CITS5017 |
-| 💬 [NLP Sentiment Analysis Pipeline](https://github.com/Maxwell2048/nlp-sentiment) | Transformer-based text classifier fine-tuned on domain-specific data | HuggingFace · CITS4012 |
-| 📊 [BI Analytics Dashboard](https://github.com/Maxwell2048/bi-dashboard) | Data warehouse design + interactive BI reporting with KPI visualisation | SQL · Power BI · INMT5526 |
-| 🤖 [ML Recommendation Engine](https://github.com/Maxwell2048/ml-recommender) | Collaborative filtering & content-based hybrid recommendation system | Scikit-learn · CITS5508 |
+Co-developed a two-person NLP project covering the full modelling workflow: preprocessing, model implementation, training, attention ablations, prediction export and error analysis.
 
----
+- Worked across BoW, BiLSTM and Transformer-style self-attention models.
+- Compared attention configurations; the best saved ablation achieved **73.75% validation accuracy on 1,303 examples**.
+- Analysed attention weights, confidence distributions and high-confidence prediction errors.
 
-## 📚 Coursework Highlights
+### Data Engineering & Machine Learning
+**SQL · PostgreSQL · Neo4j · Power BI · TensorFlow · scikit-learn**
 
-| Status | Course |
-|--------|--------|
-| ✅ Completed | Machine Learning (CITS5508) |
-| ✅ Completed | Deep Learning (CITS5017) |
-| ✅ Completed | Natural Language Processing (CITS4012) |
-| ✅ Completed | Agile Web Development (CITS5505) |
-| ✅ Completed | Business Intelligence (INMT5526) |
-| ✅ Completed | Supply Chain Analytics (INMT5518) |
-| ✅ Completed | Relational Database Management (CITS1402) |
-| ✅ Completed | Object Oriented Programming (CITS2005) |
-| 🔄 In Progress | AI & Adaptive Systems (CITS4404) |
-| 🔄 In Progress | Internet of Things (CITS5506) |
-| 🔄 In Progress | Data Warehousing (CITS5504) |
-| 🔄 In Progress | IT Capstone Project (CITS5206) |
+- **Aviation data warehouse:** co-developed ETL, a star schema, OLAP queries, Power BI reporting and a Databricks/Delta Lake extension.
+- **Airline route graph:** modelled airports and routes in Neo4j and used Cypher for multi-hop route and network analysis.
+- **Image classification:** compared a custom CNN with MobileNetV3 transfer learning on a 12-class dataset.
+- **ML experiments:** implemented and evaluated SVMs, random forests, soft-voting ensembles, PCA and ridge regression.
 
----
+## Where I'm heading
 
-## 📊 GitHub Stats
+I'm particularly interested in **AI-enabled applications, retrieval and search, practical ML systems and reliable software delivery**. My next focus is extending my project experience into production deployment, MLOps and agentic AI workflows.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maxwell2048&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxwell2048&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+I'm comfortable learning unfamiliar tools, collaborating across a stack and working through implementation details to deliver useful results.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxwell2048&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maxwell2048&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maxwell2048&color=0e75b6&style=flat-square" alt="Profile views"/>
-</p>
-
-<p align="center"><em>⭐ Star my repos if you find them useful!</em></p>
+📍 **Perth, Western Australia** · Open to Perth-based and remote opportunities<br>
+📫 **[Maxwell70174@outlook.com](mailto:Maxwell70174@outlook.com)**
