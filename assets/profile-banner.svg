@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Maxwell — AI and Software Developer</title>
+  <desc id="desc">UWA Master of IT graduate based in Perth. Local LLMs, machine learning and software development. Animated blue and purple waves.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#182440"/></linearGradient>
+    <linearGradient id="wave"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8b9dc5" stroke-opacity=".09"/></pattern>
+  </defs>
+  <rect width="1200" height="280" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="280" rx="20" fill="url(#grid)"/>
+  <circle cx="1055" cy="95" r="65" fill="#38bdf8" opacity=".08"><animate attributeName="r" values="65;90;65" dur="7s" repeatCount="indefinite"/></circle>
+  <circle cx="1110" cy="155" r="88" fill="#a78bfa" opacity=".08"><animate attributeName="r" values="88;60;88" dur="8s" repeatCount="indefinite"/></circle>
+  <g fill="none" stroke="url(#wave)">
+    <path d="M-30 233 Q150 170 320 225 T660 223 T1000 222 T1340 205" stroke-width="2" opacity=".6"><animate attributeName="d" values="M-30 233 Q150 170 320 225 T660 223 T1000 222 T1340 205;M-30 220 Q150 270 320 222 T660 224 T1000 221 T1340 230;M-30 233 Q150 170 320 225 T660 223 T1000 222 T1340 205" dur="9s" repeatCount="indefinite"/></path>
+    <path d="M-30 250 Q150 207 320 250 T660 246 T1000 247 T1340 235" stroke-width="1" opacity=".35"/>
+    <path d="M900 85H960L995 120H1090" stroke-width="2" opacity=".6" stroke-dasharray="8 10"><animate attributeName="stroke-dashoffset" from="0" to="-180" dur="12s" repeatCount="indefinite"/></path>
+    <circle cx="900" cy="85" r="5"/><circle cx="995" cy="120" r="5"/><circle cx="1090" cy="120" r="5"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="58" y="65" fill="#7dd3fc" font-size="14" letter-spacing="4">BUILD · LEARN · DELIVER</text>
+    <text x="55" y="126" fill="#f0f6fc" font-size="52" font-weight="700">Hi, I'm Maxwell</text>
+    <text x="58" y="168" fill="#c4b5fd" font-size="23">AI &amp; Software Developer</text>
+    <text x="58" y="202" fill="#a7b5cc" font-size="16">UWA Master of IT Graduate · Perth, Australia</text>
+  </g>
+</svg>
